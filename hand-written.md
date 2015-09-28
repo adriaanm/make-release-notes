@@ -1,11 +1,6 @@
-We are happy to announce the availability of Scala 2.10.6.
+Scala 2.10.6 [resolves a license incompatibility in scala.util.Sorting](https://github.com/scala/scala/pull/4557), but is otherwise identical to Scala 2.10.5. A total of [three pending backports](https://github.com/scala/scala/pulls?q=milestone%3A2.10.6+is%3Aclosed) were merged.
 
-This maintenance release closes the Scala 2.10.x series by integrating [three pending backports](https://github.com/scala/scala/pulls?q=milestone%3A2.10.6+is%3Aclosed).
-We have no plans to publish another 2.10 release.
-
-We'd like to encourage you to upgrade to the Scala 2.11 series as soon as possible.
-
-Scala 2.10.6 is binary compatible with previous releases in the 2.10 series.
+We strongly encourage you to upgrade to the latest stable version of Scala 2.11.x, as the 2.10.x series is no longer actively maintained.
 
 ### Scala IDE
 The current release of Scala IDE supports any 2.10.x release, and is available on the [download site](http://scala-ide.org/download/sdk.html).
